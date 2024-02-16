@@ -1,0 +1,8 @@
+{
+  "watch": ["."],
+  "ext": "go",
+  "delay": 2,
+  "ignoreRoot": [".git"],
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "go run main.go"
+}
